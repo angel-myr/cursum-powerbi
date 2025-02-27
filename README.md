@@ -15,3 +15,10 @@
     ✅ Documentación de Conexión a todas las Fuentes de Datos
 
 ![alt text](imgs/image3.png)
+
+### Devela el Poder de Power Query
+    ✅ Análisis Exploratorio de Datos
+    ✅ Limpieza y Calidad de Datos
+    ✅ Transformación de Texto, Números y Tiempo
+    
+![alt text](imgs/image4.png)
