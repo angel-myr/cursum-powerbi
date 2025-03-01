@@ -22,3 +22,10 @@
     ✅ Transformación de Texto, Números y Tiempo
     
 ![alt text](imgs/image4.png)
+
+### Domina Power Query para Power BI
+    ✅ Cambio de Configuración Regional
+    ✅ Combinar y Anexar Consultas
+    ✅ Dinamización de Columnas
+
+![alt text](imgs/image5.png)
