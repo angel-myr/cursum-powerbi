@@ -43,3 +43,10 @@
     ✅ Agrupar Medidas en una Tabla Dedicada
 
 ![alt text](imgs/image7.png)
+
+### Inteligencia de Tiempo con DAX
+    ✅ Funciones de Inteligencia de Tiempo
+    ✅ Comparar Períodos Anteriores
+    ✅ Acumular Valores en el Tiempo
+
+![alt text](imgs/image8.png)
