@@ -29,3 +29,10 @@
     ✅ Dinamización de Columnas
 
 ![alt text](imgs/image5.png)
+
+### Primeros Pasos con DAX
+    ✅ Sintaxis de Medidas en DAX
+    ✅ Tipos de Cálculos en DAX
+    ✅ Funciones Básicas en DAX
+
+![alt text](imgs/image6.png)
