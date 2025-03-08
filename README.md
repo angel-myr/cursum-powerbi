@@ -36,3 +36,10 @@
     ✅ Funciones Básicas en DAX
 
 ![alt text](imgs/image6.png)
+
+### DAX Avanzado Hecho Fácil
+    ✅ Variables y Contextos en DAX
+    ✅ Función CALCULATE y Medidas Rápidas
+    ✅ Agrupar Medidas en una Tabla Dedicada
+
+![alt text](imgs/image7.png)
